@@ -1,6 +1,5 @@
 package com.bridgelabz;
 
-
 public class InvoiceSummary {
     private final int numOfRides;
     private final double totalFare;
